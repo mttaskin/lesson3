@@ -2,4 +2,5 @@ limonata tarifi
 
 1.limon
 2.su
-şeker
+3.şeker
+4.nane
